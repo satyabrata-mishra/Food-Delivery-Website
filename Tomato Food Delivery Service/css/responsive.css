@@ -1,0 +1,53 @@
+@media only screen and (max-width:1340px){
+    #home h1{
+        font-size: 2rem;
+    }
+}
+@media only screen and (max-width:1160px){
+    #home h1{
+        font-size: 1.5rem;
+    }
+    #home p{
+        font-size: 0.8rem;
+    }
+    #ser h1{
+        font-size: 1.5rem;
+    }
+}
+@media only screen and (max-width:980px){
+    #home h1{
+        font-size: 1.3rem;
+    }
+    #home p{
+        font-size: 1rem;
+    }
+    #ser h1{
+        font-size: 1.3rem;
+    }
+}
+@media only screen and (max-width:900px){
+    #home h1{
+        font-size: 1rem;
+    }
+    #home p{
+        font-size: 0.8rem;
+    }
+    #ser h1{
+        font-size: 1rem;
+    }
+}
+@media only screen and (max-width:600px){
+    #home h1{
+        font-size: 0.8rem;
+    }
+    #home p{
+        font-size: 0.5rem;
+    }
+    #ser h1{
+        font-size: 0.8rem;
+    }
+    .btn{
+        font-size: 0.3rem;
+    }
+}
+
